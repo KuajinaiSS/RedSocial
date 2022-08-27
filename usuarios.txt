@@ -1,0 +1,6 @@
+Humberto,Suazo,usuario1@gmail.com,chupete007,Sudafrica2010,Default,0,2
+Felipe,Aguirre,usuario2@gmail.com,ewq,johnnyfumO,Administrador,2,1
+Marc,Posta,usuario3@gmail.com,maikelinsipido,P1p035,Default,2,1
+Gaspar,Rosas,usuario4@gmail.com,GaspiNight,FIIIUMBA,Administrador,1,0
+pancho,sssss,dsdsds,111,1,Administrador,1,1
+as,as,as,sa,123456A,Default,1,2
